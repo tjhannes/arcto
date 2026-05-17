@@ -1,19 +1,14 @@
 {
-  "name": "automark-astro",
-  "version": "1.0.0",
-  "description": "Automark is a marketing and sales automation platform",
-  "author": "Themefisher",
-  "license": "MIT",
-  "packageManager": "yarn@1.22.22",
+  "name": "website",
+  "version": "0.1.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "concurrently \"node scripts/themeGenerator.js --watch\" \"astro dev\"",
     "build": "node scripts/themeGenerator.js && astro build",
     "preview": "astro preview",
-    "check": "astro check",
-    "format": "prettier -w ./src",
-    "deploy:cf-workers": "npm run build && wrangler deploy",
-    "preview:cf-workers": "npm run build && wrangler dev"
+    "lint": "eslint .",
+    "check-types": "astro check"
   },
   "dependencies": {
     "@astrojs/check": "0.9.8",
@@ -38,6 +33,7 @@
     "vite": "^7.0.0"
   },
   "devDependencies": {
+    "@repo/eslint-config": "*",
     "@tailwindcss/forms": "^0.5.11",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.2.2",
@@ -45,17 +41,12 @@
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
     "concurrently": "^9.2.1",
-    "eslint": "^10.2.0",
-    "prettier": "^3.8.2",
+    "eslint": "^9.39.1",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwind-bootstrap-grid": "^7.0.0",
     "tailwindcss": "^4.2.2",
-    "typescript": "^6.0.2",
+    "typescript": "5.9.2",
     "wrangler": "^4.81.1"
-  },
-  "overrides": {
-    "astro": "$astro",
-    "typescript": "$typescript"
   }
 }
