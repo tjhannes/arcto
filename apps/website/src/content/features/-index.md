@@ -1,87 +1,87 @@
 ---
 title: "Features"
-meta_title: "Features - The All-In-One Growth Software"
-description: "Everything your local business needs to attract, engage, convert, and retain customers automatically."
+meta_title: "Features - Arcto Career Growth Platform"
+description: "Every tool your engineering team needs to set goals, build skills, and grow — connected in one platform."
 image: ""
 draft: false
 
 banner:
-  title: "Features That Turn <br /> Attention <strong>Into Revenue</strong>"
-  content: "A single piece of software built to manage your entire business on autopilot. Say goodbye to scattered tools and forgotten leads."
+  title: "Six features. <br /> One platform. <strong>Real developer growth.</strong>"
+  content: "Arcto connects every piece of the developer career growth journey — from the first goal to the final milestone — in a single, developer-owned platform."
   button_primary:
-    enable: true
-    label: "Start Free Trial"
-    link: "/pricing"
-  button_secondary:
     enable: true
     label: "Book a Demo"
     link: "/contact"
+  button_secondary:
+    enable: true
+    label: "See Pricing"
+    link: "/pricing"
   image: "/images/automark_dashboard.png"
 
 partners:
   enable: true
-  badge: "Trusted Platform"
-  title: "Powering thousands of <strong>local businesses</strong> worldwide"
+  badge: "Trusted by engineering teams"
+  title: "Helping developers grow at <strong>software-first companies</strong> across Europe"
 
 smart_platform:
   enable: true
-  title: "Automate every part of your <br /> business with <strong>one smart platform.</strong>"
+  title: "Every part of developer growth, <br /> connected in <strong>one smart platform.</strong>"
   cards:
-    - title: "Automated Customer Follow-Up"
-      subtitle: "Never lose a lead again. Respond to inquiries instantly and automatically."
+    - title: "AI-Powered Goal Setting"
+      subtitle: "Developers enter growth goals via conversational chat. A personalized 90-day plan is generated in under 5 minutes."
       image: "/images/features/automated-marketing-visual.svg"
       classNames: ""
-    - title: "Autopilot Review Generator"
-      subtitle: "Automatically request and track 5-star Google reviews from happy clients."
+    - title: "Curated Learning Recommendations"
+      subtitle: "AI matches each developer's goals to the most relevant courses, conferences, and resources — with pricing shown inline."
       image: "/images/features/ai-powered-graph.svg"
       classNames: ""
-    - title: "Missed Call Auto-Responder"
-      subtitle: "Turn missed calls into booked appointments with instant automated text messages."
+    - title: "Mentor Matching & Scheduling"
+      subtitle: "Every milestone can be supported by a real session with an internal mentor or vetted external specialist."
       image: "/images/features/grow-your-earnings.svg"
       classNames: ""
-    - title: "Unified Lead Inbox"
-      subtitle: "Manage all your SMS, email, Facebook, and Instagram messages in one single dashboard."
+    - title: "Training Budget Visibility"
+      subtitle: "Developers see their available L&D budget alongside every recommendation. No more 'I didn't know I had budget for this.'"
       image: "/images/features/turnover-table.svg"
       classNames: "md:col-span-2 lg:col-span-2"
-    - title: "24/7 Appointment Scheduler"
-      subtitle: "Let customers book directly on your calendar, completely eliminating back-and-forth emails."
+    - title: "Milestone Tracking & Skills Dashboard"
+      subtitle: "Track progress against the plan automatically. Admins see anonymized aggregate skill trends — individual goals always stay private."
       image: "/images/features/marketing-autopilot.svg"
       classNames: ""
 
 service_features:
   enable: true
   items:
-    - title: "Built specifically to grow <strong>your local business</strong>"
+    - title: "Built specifically for <strong>the way developers actually work</strong>"
       image: "/images/features/service-feature-1.svg"
       reverse: false
       items:
         - icon: FaBolt
-          title: "Setup in Minutes"
-          content: "Get up and running immediately with our pre-built local business templates."
+          title: "Plan in Minutes"
+          content: "Developers go from open chat to a structured 90-day plan in under 5 minutes — no forms, no HR process."
         - icon: FaBrain
-          title: "Automated Intelligence"
-          content: "Smart workflows that automatically sort, nurture and follow up with your leads."
+          title: "AI That Understands Developers"
+          content: "Goal recommendations and skill gap analysis are tuned for software teams navigating the AI transition — not generic competency frameworks."
         - icon: FaLock
-          title: "Secure & Reliable"
-          content: "Your client database and payment info is protected with bank-level encryption."
+          title: "Fully Developer-Owned"
+          content: "Individual goal content is completely private. Developers control their plan entirely. Companies only see anonymized aggregates."
         - icon: FaCubes
-          title: "All Tools In One Place"
-          content: "Replace your CRM, website builder, calendar, and email marketing software."
+          title: "One Platform, Not Five"
+          content: "Replace scattered L&D tools, manual goal tracking, and disconnected mentor networks with a single connected workflow."
 
-    - title: "The only software you need to <strong>scale predictably</strong>"
+    - title: "The only platform that gives companies <strong>real visibility without surveillance</strong>"
       image: "/images/features/service-feature-2.svg"
       reverse: true
       items:
         - icon: FaChartSimple
-          title: "Clear ROI Tracking"
-          content: "See exactly which campaigns and ads are generating the most revenue."
+          title: "Skills Coverage Dashboard"
+          content: "See which capabilities are growing across your team — presented as anonymized trends, never individual data."
         - icon: FaRocket
-          title: "Easy to Use"
-          content: "Designed for business owners, not IT professionals. Simple and intuitive."
+          title: "L&D Budget ROI"
+          content: "Track utilization of training budgets across the team. Know your money is working, not sitting unspent."
         - icon: FaShieldHalved
-          title: "Complete Client History"
-          content: "View every text, email, and phone call with a client in a single chronological feed."
+          title: "HRIS & SSO Ready"
+          content: "Enterprise plans include HRIS integration and SSO support for seamless adoption at scale."
         - icon: FaTableCellsLarge
-          title: "Mobile App Access"
-          content: "Manage leads, reply to messages, and run your business from anywhere using our mobile app."
+          title: "Progress That Resurfaces"
+          content: "Milestones automatically reappear at natural moments — before performance reviews, when a relevant conference is announced."
 ---

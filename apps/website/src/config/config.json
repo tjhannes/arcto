@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Automark",
-    "base_url": "https://automark-astro.vercel.app",
+    "title": "Arcto",
+    "base_url": "https://arcto.io",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.svg",
     "logo_width": "160",
     "logo_height": "45",
-    "logo_text": "Automark"
+    "logo_text": "Arcto"
   },
   "settings": {
     "sticky_header": true
@@ -17,23 +17,23 @@
     "contact_form_action": "#",
     "checklist_form_action": "#",
     "apply_form_action": "#",
-    "copyright": "Copyright &copy; 2026 <strong><a target=\"_blank\" href=\"https://themefisher.com/\">Themefisher</a></strong> All Rights Reserved",
-    "footer_tagline": "Empowering Marketing businesses through intelligent automation.",
-    "footer_email": "contact@Automark.com",
-    "footer_phone": "(+1) 165-320-0102"
+    "copyright": "Copyright &copy; 2026 <strong>Arcto</strong>. All Rights Reserved.",
+    "footer_tagline": "The career growth platform built for developers, not HR.",
+    "footer_email": "hello@arcto.io",
+    "footer_phone": ""
   },
   "navigation_button": {
     "enable": true,
-    "label": "Get This Template",
-    "link": "https://themefisher.com/products/automark-astro?aff=automarkdemo"
+    "label": "Book a Demo",
+    "link": "/contact"
   },
   "google_tag_manager": {
     "enable": false,
     "gtm_id": "GTM-XXXXXX"
   },
   "metadata": {
-    "meta_author": "Automark",
+    "meta_author": "Arcto",
     "meta_image": "/images/og-image.png",
-    "meta_description": "The all-in-one marketing and sales automation platform"
+    "meta_description": "The career growth platform for software developers. AI-powered plans, curated learning, and real mentorship — all in one place."
   }
 }

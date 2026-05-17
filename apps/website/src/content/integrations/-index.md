@@ -1,12 +1,12 @@
 ---
 title: "Integrations"
-meta_title: "Integrations - All-In-One Local Business Software"
-description: "Seamlessly connect our platform with your favorite local business tools."
+meta_title: "Integrations - Arcto Career Growth Platform"
+description: "Arcto connects with the HRIS, calendaring, communication, and learning tools your team already uses."
 image: ""
 draft: false
 
 page_header:
-  title: "Seamlessly Connect With <strong>Your Favorite Tools</strong>"
+  title: "Works with the tools your team <strong>already uses.</strong>"
 
 integrations:
   enable: true
@@ -14,49 +14,49 @@ integrations:
     - icon: FaGoogle
       class: "text-[#4285F4]"
       title: "Google Workspace"
-    - icon: FaCalendarCheck
-      class: "text-[#006BFF]"
-      title: "Calendly"
-    - icon: FaMailchimp
-      class: "text-[#FFE01B]"
-      title: "Mailchimp"
-    - icon: FaVideo
-      class: "text-[#2D8CFF]"
-      title: "Zoom"
-    - icon: FaFacebook
-      class: "text-[#1877F2]"
-      title: "Facebook"
-    - icon: FaLinkedin
-      class: "text-[#0A66C2]"
-      title: "LinkedIn"
-    - icon: FaGoogle
-      class: "text-[#4285F4]"
-      title: "Google Ads"
-    - icon: FaFileInvoiceDollar
-      class: "text-[#2CA01C]"
-      title: "QuickBooks"
-    - icon: FaTiktok
-      class: "text-white"
-      title: "TikTok"
-    - icon: FaInstagram
-      class: "text-[#E4405F]"
-      title: "Instagram"
-    - icon: FaShopify
-      class: "text-[#96BF48]"
-      title: "Shopify"
+    - icon: FaMicrosoft
+      class: "text-[#0078D4]"
+      title: "Microsoft 365"
     - icon: FaSlack
       class: "text-[#4A154B]"
       title: "Slack"
+    - icon: FaCalendarCheck
+      class: "text-[#006BFF]"
+      title: "Google Calendar"
+    - icon: FaLinkedin
+      class: "text-[#0A66C2]"
+      title: "LinkedIn Learning"
+    - icon: FaCode
+      class: "text-primary"
+      title: "GitHub"
     - icon: FaUsersGear
       class: "text-primary"
-      title: "Custom CRMs"
+      title: "Workday"
+    - icon: FaUsersGear
+      class: "text-[#73C04B]"
+      title: "BambooHR"
+    - icon: FaUsersGear
+      class: "text-[#FF6B35]"
+      title: "Personio"
+    - icon: FaShieldHalved
+      class: "text-[#007DC1]"
+      title: "Okta"
+    - icon: FaCode
+      class: "text-[#0078D4]"
+      title: "Azure AD"
     - icon: FaChartLine
       class: "text-primary"
       title: "Internal Dashboards"
     - icon: FaCode
       class: "text-primary"
-      title: "Private APIs"
+      title: "REST API"
     - icon: FaGear
       class: "text-primary"
-      title: "Webhook Systems"
+      title: "Webhooks"
+    - icon: FaVideo
+      class: "text-[#2D8CFF]"
+      title: "Zoom"
+    - icon: FaVideo
+      class: "text-[#464EB8]"
+      title: "Microsoft Teams"
 ---

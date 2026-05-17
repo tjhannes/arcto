@@ -1,85 +1,85 @@
 ---
 title: "Pricing"
-meta_title: "Pricing - All-In-One Local Business Software"
-description: "Simple, transparent pricing for every stage of your local business growth."
+meta_title: "Pricing - Arcto Career Growth Platform"
+description: "Simple, per-seat pricing for engineering teams ready to invest in structured developer growth."
 image: ""
 draft: false
 
 page_header:
   badge: "Pricing"
-  title: "Pricing Built For Local Business Growth"
-  content: "Start your free 14-day trial, scale as you grow. No contracts. Cancel anytime."
+  title: "Pricing That Scales With Your Team"
+  content: "Annual commitment. Per seat. Full platform access from day one. Minimum 20 seats."
 
 toggler:
   monthly_label: "Monthly"
   yearly_label: "Yearly"
 
 plans:
-  - title: "Essentials"
-    price: "97"
-    yearly_price: "970"
+  - title: "Starter"
+    price: "20"
+    yearly_price: "240"
     is_featured: false
     button:
       enable: true
-      label: "Start Free Trial"
+      label: "Book a Demo"
       link: "/contact"
-    description: "The core necessities for organizing your leads and capturing more business."
+    description: "Core goal setting and AI planning for teams getting started with structured developer growth."
     features:
-      - label: "Unified Lead Inbox"
+      - label: "AI-powered goal setting"
         included: true
-      - label: "Missed Call Auto-Responder"
+      - label: "Personalized 90-day plans"
         included: true
-        tooltip: "Automatically text back missed calls."
-      - label: "Autopilot Review Generator"
+        tooltip: "Generated in under 5 minutes via conversational chat."
+      - label: "Curated learning recommendations"
         included: true
-      - label: "24/7 Appointment Scheduler"
+      - label: "Mentor matching & scheduling"
         included: false
-      - label: "Automated Follow-Up Campaigns"
+      - label: "Training budget visibility"
         included: false
 
   - title: "Growth"
-    price: "297"
-    yearly_price: "2970"
+    price: "30"
+    yearly_price: "360"
     is_featured: true
     offer_text: Most Popular
     button:
       enable: true
-      label: "Start Free Trial"
+      label: "Book a Demo"
       link: "/contact"
-    description: "Everything you need to put your business growth on complete autopilot."
+    description: "The full Arcto platform. Every feature, every developer, one place."
     features:
-      - label: "Unified Lead Inbox & Reviews"
+      - label: "Everything in Starter"
         included: true
-      - label: "24/7 Appointment Scheduler"
+      - label: "Mentor matching & scheduling"
         included: true
-        tooltip: "Unlimited calendars and bookings."
-      - label: "Automated Follow-Up Campaigns"
+        tooltip: "Internal mentors at launch. External specialists as premium add-on."
+      - label: "Training budget visibility"
         included: true
-      - label: "High-Converting Websites & Funnels"
+      - label: "Milestone tracking"
         included: true
-      - label: "Advanced API Integrations"
-        included: false
+      - label: "Skills coverage dashboard"
+        included: true
 
-  - title: "Scale"
-    price: "497"
-    yearly_price: "4970"
+  - title: "Enterprise"
+    price: "Custom"
+    yearly_price: "Custom"
     is_featured: false
     button:
       enable: true
-      label: "Start Free Trial"
+      label: "Talk to Sales"
       link: "/contact"
-    description: "Total control and advanced tools to scale multiple locations seamlessly."
+    description: "For teams of 200+ with advanced security, compliance, and integration requirements."
     features:
       - label: "Everything in Growth"
         included: true
-      - label: "Unlimited Social Media Posting"
+      - label: "SSO & SAML"
         included: true
-        tooltip: "Schedule content across all platforms."
-      - label: "Advanced API Integrations"
+        tooltip: "Okta, Azure AD, and other identity providers."
+      - label: "HRIS integration"
         included: true
-      - label: "Multi-Location Support"
+      - label: "Custom onboarding"
         included: true
-      - label: "Dedicated Account Manager"
+      - label: "Dedicated Customer Success Manager"
         included: true
 
 comparison:
@@ -88,28 +88,32 @@ comparison:
   title: "Pricing Plans <strong>Comparison</strong>"
   headers:
     - label: "Features"
-    - label: "Essentials"
+    - label: "Starter"
     - label: "Growth"
-    - label: "Scale"
+    - label: "Enterprise"
   rows:
-    - feature: "Monthly Price"
-      values: ["$97", "$297", "$497"]
-    - feature: "User Accounts"
-      values: ["3", "10", "Unlimited"]
-    - feature: "Unified Lead Inbox"
+    - feature: "Price per seat / month"
+      values: ["€20", "€30", "Custom"]
+    - feature: "Minimum seats"
+      values: ["20", "20", "200"]
+    - feature: "AI-powered goal setting"
       values: [true, true, true]
-    - feature: "Missed Call Auto-Responder"
+    - feature: "90-day development plans"
       values: [true, true, true]
-    - feature: "Autopilot Review Generator"
+    - feature: "Curated learning recommendations"
       values: [true, true, true]
-    - feature: "24/7 Appointment Scheduler"
+    - feature: "Mentor matching & scheduling"
       values: [false, true, true]
-    - feature: "Website & Funnel Builder"
+    - feature: "Training budget visibility"
       values: [false, true, true]
-    - feature: "Automated SMS/Email Campaigns"
+    - feature: "Milestone tracking"
       values: [false, true, true]
-    - feature: "Multi-Location Management"
+    - feature: "Skills coverage dashboard (anonymized)"
+      values: [false, true, true]
+    - feature: "SSO & SAML"
+      values: [false, false, true]
+    - feature: "HRIS integration"
       values: [false, false, true]
     - feature: "Support"
-      values: ["Email Support", "Priority Support", "Dedicated Manager"]
+      values: ["Email", "Priority", "Dedicated CSM"]
 ---

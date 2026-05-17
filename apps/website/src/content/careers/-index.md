@@ -1,71 +1,71 @@
 ---
 title: "Careers"
-meta_title: "Careers - Join Our Local Business Growth Team"
-description: "Join us and help empower local businesses with automated tools for their community growth."
+meta_title: "Careers - Join the Arcto Team"
+description: "Help us build the career growth platform that developers actually want to use."
 image: ""
 draft: false
 
 page_header:
-  title: "Help Us Grow <strong>Local Businesses</strong>"
+  title: "Help us build the platform <strong>developers love</strong>"
 
 gallery:
   enable: true
   items:
     - src: "/images/careers/office-1.png"
-      alt: "Modern office workspace"
+      alt: "Arcto team workspace"
       class: "row-span-2 h-[625px]"
     - src: "/images/careers/office-2.png"
-      alt: "Office meeting area"
+      alt: "Team collaboration"
       class: "h-[296px]"
     - src: "/images/careers/office-3.png"
-      alt: "Colorful office lounge"
+      alt: "Our office"
       class: "row-span-2 h-[625px]"
     - src: "/images/careers/office-4.png"
-      alt: "Bright office space"
+      alt: "Working at Arcto"
       class: "h-[298px]"
 
 what_we_offer:
   enable: true
   title: "What We Offer"
-  subtitle: "Automark's intuitive platform makes it easy for team members to organize, prioritize and solve customer requests — all in a familiar interface."
+  subtitle: "We practise what we preach. Every Arcto team member gets full access to the platform, a personal L&D budget, and a real mentor from day one."
   offers:
     - logo: "/images/icons/healthicon.svg"
       title: "Health & Wellness"
       list:
         - "Comprehensive health insurance"
         - "Mental health support"
-        - "Wellness programs"
+        - "Flexible working hours"
     - logo: "/images/icons/paidtimeoff.svg"
-      title: "Paid Time Off"
+      title: "Time Off"
       list:
         - "Generous vacation policy"
-        - "Sick leave"
+        - "Paid sick leave"
         - "Parental leave"
     - logo: "/images/icons/wellbeing.svg"
       title: "Financial Well-being"
       list:
         - "Competitive salaries"
-        - "Retirement plans"
-        - "Financial planning resources"
+        - "Equity participation"
+        - "Transparent compensation bands"
     - logo: "/images/icons/careerdevelopment.svg"
       title: "Career Development"
       list:
-        - "Professional development budget"
-        - "Mentorship programs"
-        - "Career growth opportunities"
+        - "Personal L&D budget"
+        - "Arcto platform access"
+        - "Dedicated mentorship"
 
 staff_testimonials:
   enable: true
-  title: What Our Staff Say
+  title: What Our Team Says
   items:
-    - quote: "They truly understood our business at a depth, offering data-driven updates on time, we designed and managed a project to drive value, including time, and integrate productively. It offers the full gamut"
+    - quote: "We use Arcto ourselves. My development plan is how I stayed ahead of the shift to AI-augmented development — and I work at the company that built it. That's the best proof of concept I can give."
       avatar: "/images/avatar.png"
-      name: "Sarah Mitchell"
-      designation: "Marketing Director"
-    - quote: "They truly understood our business at a depth, offering data-driven updates on time, we designed and managed a project to drive value, including time, and integrate productively. It offers the full gamut"
+      name: "Senior Software Engineer"
+      designation: "Arcto Engineering"
+    - quote: "I joined Arcto because the problem is real. Every engineering team I've worked at had this issue. I wanted to be on the team solving it — and we're finally building something developers actually care about."
       avatar: "/images/avatar.png"
-      name: "James Carter"
-      designation: "Product Lead"
+      name: "Head of Product"
+      designation: "Arcto Product"
 
 open_positions:
   enable: true

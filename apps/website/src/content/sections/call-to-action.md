@@ -1,9 +1,9 @@
 ---
 enable: true
-title: "Ready to put Your Local Business Growth on <strong>Autopilot?</strong>"
-description: "Stop wasting thousands on scattered tools that don't convert and start enjoying streamlined, predictable growth."
+title: "Ready to give your developers a <strong>clear path forward?</strong>"
+description: "Book a 30-minute demo and see how Arcto turns scattered L&D budgets and forgotten growth goals into structured, developer-owned career plans."
 button:
   enable: true
-  label: "Start Your 14-Days Free Trial"
-  link: "https://themefisher.com/products/automark-astro?aff=automarkdemo"
+  label: "Book a Demo"
+  link: "/contact"
 ---

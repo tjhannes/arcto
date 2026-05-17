@@ -1,23 +1,23 @@
 ---
 enable: true
-title: "Real Stories From Local <strong>Business Owners</strong>"
+title: "What engineering teams say about <strong>Arcto</strong>"
 
-# Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Roofing Company Owner"
+  - name: "VP of Engineering"
+    designation: "Series B Fintech, Munich"
     poster: "/images/testimonials/1.png"
-    content: "We used to lose at least 3-4 jobs a week because we couldn't answer the phone while on a roof. The Missed Call Auto-Responder immediately cut that to zero. This software pays for itself a hundred times over."
+    content: "We had a €50k L&D budget going 60% unspent every year. Within two quarters of using Arcto, utilization was at 90% and three engineers had shipped their first AI-powered features. The ROI conversation with our board basically writes itself now."
     video: /showcase.mp4
 
-  - name: "Sarah Jenkins"
-    designation: "Dental Practice Manager"
+  - name: "Head of Engineering"
+    designation: "Developer Tools Company, Amsterdam"
     poster: "/images/testimonials/2.png"
-    content: "Our front desk was overwhelmed with appointment reminders and review requests. This system automated everything. Our show-up rate increased by 40% and our Google reviews doubled in two months."
+    content: "Our developers never engaged with any L&D tool we threw at them — Lattice, 15Five, you name it. Arcto is different because developers own their plan. Nobody's looking over their shoulder. Usage went from 10% to 85% in the first month."
     video: /showcase.mp4
 
-  - name: "David Alaba"
-    designation: "HVAC Contractor"
+  - name: "Senior Backend Engineer"
+    designation: "SaaS Platform, Berlin"
     poster: "/images/testimonials/3.png"
-    content: "I finally cancelled my subscription to 5 different tools. Having the Smart Inbox, calendar, and text campaigns in one dashboard saved me nearly $600 a month and made my life so much simpler."
+    content: "I finally have a structured plan for the transition to AI-augmented development. My mentor is a senior ML engineer at another company. We meet every two weeks and I'm making more progress in three months than I did in the previous two years."
+    video: /showcase.mp4
 ---

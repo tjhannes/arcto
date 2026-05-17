@@ -1,20 +1,20 @@
 ---
 enable: true
-title: "Quick Answers for the Smart Investors"
-description: "Find answers to common questions about our product and services."
+title: "Frequently asked questions"
+description: "Everything you need to know before bringing Arcto to your engineering team."
 button:
   enable: true
-  label: "Get This Template"
-  link: "https://themefisher.com/products/automark-astro?aff=automarkdemo"
+  label: "Still have questions? Talk to us."
+  link: "/contact"
 items:
-  - question: "Is this software hard to set up?"
-    answer: "Not at all. We built this platform specifically for local business owners who aren't tech experts. We provide templates and 1-on-1 support to get you running fast."
-  - question: "What if I already have a website?"
-    answer: "You can keep your existing website! Our tools (like the Web Chat Widget and Missed Call Text-Back) easily integrate with WordPress, Wix, and Squarespace with a simple line of code."
-  - question: "Can this replace my existing CRM or Mailchimp?"
-    answer: "Yes. Our platform includes a full CRM, unlimited email marketing, and SMS capabilities. Most of our clients cancel 3-5 other software subscriptions when they switch to us."
-  - question: "How does the Missed Call Auto-Responder work?"
-    answer: "When a customer calls your business number and you don't answer, the system instantly texts them back (e.g., 'Sorry we missed your call! How can we help you?'). This stops leads from calling your competitors."
-  - question: "Are there any hidden fees?"
-    answer: "No hidden fees. You pay a simple flat monthly rate. You may just pay fractional cents directly to telecom providers for your SMS usage, exactly what it costs."
+  - question: "How is Arcto different from Lattice or 15Five?"
+    answer: "Lattice and 15Five are manager-driven performance tools. Arcto is developer-owned — individual goal content is completely private. Managers and HR only see anonymized, aggregate skill trends. Developers use Arcto because they control their plan, not because HR mandated it."
+  - question: "How quickly can a developer generate a development plan?"
+    answer: "Under 5 minutes. Developers describe their growth goals through a conversational chat interface. The AI generates a personalized 90-day plan with skill targets, milestones, and resource recommendations immediately."
+  - question: "What does 'developer-owned' actually mean?"
+    answer: "It means your personal goals, plan details, and mentor conversations are visible only to you. Your company never sees what you're working on — only anonymous, aggregated skill data at team level. You can leave the company and take your growth history with you."
+  - question: "How does mentor matching work?"
+    answer: "Every milestone in a developer's plan can be supported by a real session with a mentor. At launch, Arcto matches internal mentors within your company. External vetted specialists are available as a premium feature. Each session is anchored to a specific goal in the developer's plan."
+  - question: "What is the minimum contract size?"
+    answer: "Arcto is designed for engineering teams. The minimum is 20 seats, billed annually. Our Growth plan is €30/seat/month (€360/year per seat). Enterprise pricing is custom for teams of 200 or more."
 ---
